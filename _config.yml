@@ -1,0 +1,9 @@
+# Site settings
+title: Shawn Shin
+author:
+  name: Shawn Shin
+  email: shawn.shin@berkeley.edu
+description: "Aspiring Physicist"
+
+# Build settings
+remote_theme: jekyll/minima
