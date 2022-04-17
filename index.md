@@ -3,8 +3,8 @@ layout: home
 title: Home
 ---
 
-#About Me
+# About Me
 ------------
 I am an aspiring physicist who graduated from UC Berkeley in May 2021 with a B.A. in Physics.
 
-![Mount Tamalpais]{tam.jpg}
+![Mount Tamalpais](tam.jpg)
