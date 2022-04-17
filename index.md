@@ -10,8 +10,11 @@ title: Home
 <img style="display: block; margin: auto;" alt="photo" src="tam.jpg">
 </td>
 <td>
+  <h1>About Me</h1>
 <p>
 I graduated from the University of California, Berkeley, in May 2021 with a B.A. in Physics.
+I am currently taking a gap year (or two) before I apply to graduate school to pursue a PhD in Physics.
+
 </p>
 <ul>
 <li><b>Email address:</b> shawn.shin[at]berkeley[dot]edu.</li>
@@ -23,9 +26,3 @@ I will be writing on <a href="/blog/">blog</a> on random topics that I think are
 </td>
 </tr>
 </tbody></table>
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
