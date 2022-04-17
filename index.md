@@ -7,7 +7,7 @@ title: Home
 <table width="100%" cellspacing="5" cellpadding="5">
 <tbody><tr>
 <td width = "37.5%">
-<img style="display: block; margin: auto;" alt="photo" src="tam.jpg">
+<img style="display: block; margin: auto;" alt="photo" src="tam1.jpg">
 </td>
 <td>
   <h1>About Me</h1>
