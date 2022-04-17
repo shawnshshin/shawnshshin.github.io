@@ -2,11 +2,6 @@
 layout: home
 title: Home
 ---
-<style>
-  .footer {
-    display: none;
-  }
-</style>
 
 ------------
 <table width="100%" cellspacing="0" cellpadding="0">
@@ -28,3 +23,9 @@ I will be writing on <a href="/blog/">blog</a> on random topics that I think are
 </td>
 </tr>
 </tbody></table>
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
