@@ -2,7 +2,7 @@
 layout: home
 title: Home
 Nav_include: yes
-Nav-order: 1
+Nav-order: 2
 ---
 ------------
 ![Mount Tamalpais](tam.jpg){: width="250" }{: style="float: left"}
