@@ -2,7 +2,6 @@
 layout: home
 title: Home
 ---
-
 ------------
 ![Mount Tamalpais](tam.jpg){: width="250" }{: style="float: left"}
 
