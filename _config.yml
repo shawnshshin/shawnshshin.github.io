@@ -7,3 +7,13 @@ description: "Aspiring Physicist"
 
 # Build settings
 remote_theme: jekyll/minima
+
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  shawnshshin
+    instagram: shawn.sh1n
+    linkedin: shawn-shin-9908121b6
