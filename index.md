@@ -2,7 +2,11 @@
 layout: home
 title: About Me
 ---
-
+<style>
+  .footer {
+    display: none;
+  }
+</style>
 
 ------------
 <table width="100%" cellspacing="0" cellpadding="0">
