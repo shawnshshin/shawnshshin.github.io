@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About Me
+title: Home
 ---
 <style>
   .footer {
